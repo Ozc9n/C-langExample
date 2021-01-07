@@ -1,5 +1,5 @@
 # C-langExample
-Odev.c Icerigi
+#Odev.c Icerigi
 Milli Piyango bileti üreten bir program yazılması istenmektedir.
 Programın çalışması şu şekilde olacaktır;
 7 basamaklıbir sayı olacak,
